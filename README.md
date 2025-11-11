@@ -1,11 +1,11 @@
 # List of Collborative-Projects 
-|No| Academic Year | # Projects |
-|:-:| :-----------:| :--------: |
-| 1 | [2011-2012](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2011-2012) | 01 |
-| 2 | [2013-2014](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2013-2014) | 01 |
-| 3 | [2015-2016](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2015-2016) | 01 |
-| 4 | [2016-2017](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2016-2017) | 01 |
-| 5 | [2017-2018]() | 01 |
+|No| Academic Year | # Projects | # MoU | Duration |
+|:-:| :-----------:| :--------: | :----: | :------: |
+| 1 | [2011-2012](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2011-2012) | 01 | - |
+| 2 | [2013-2014](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2013-2014) | 01 | - |
+| 3 | [2015-2016](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2015-2016) | 01 | - |
+| 4 | [2016-2017](https://github.com/sharmilasengupta/Collborative-Projects/blob/main/README.md#academic-year-2016-2017) | 01 | - |
+| 5 | [2017-2018]() | 01 | 01 | July 2017 - Apr 2018 |
 
 
 ## Academic Year 2011-2012
@@ -48,14 +48,16 @@
 - [Github Repo]()
 - [Project Completion Letter]()
 
-17-18
+## Academic Year 2017-2018
+#### 1. Pantomath 'Bo: Discover Cross Modal Human Behavior Analysis
+###### Collaborating Organization Details :
+- Organization Name : [Cere Labs Pvt. Ltd]()
+- Contact Person : [Mr. Devesh Rajadhyax Founder & CEO]()
+- Members : 
+  - [](), [](), [](), []()
+- [Github Repo]()
+- [Project Completion Letter]()
 
-
-
-
-Pantomath 'Bo: Discover Cross Modal Human Behavior Analysis
-Cere Labs Pvt. Ltd, Mr. Devesh Rajadhyax Founder & CEO,+919819106055, 10 months (July 2017 - Apr 2018)
-MOU
 19-20
 
 
